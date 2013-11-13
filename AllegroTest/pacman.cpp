@@ -5,6 +5,7 @@ void pac::setpacmanx(float a)
 	pacx = a;
 }
 
+
 void pac::setpacmany(float b)
 {
 	pacy = b;
